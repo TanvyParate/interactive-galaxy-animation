@@ -11,7 +11,6 @@ This project features interactive moving dots, twinkling stars, a star cursor tr
 - **Twinkling Star Field**: Background stars with parallax and subtle twinkle effect.
 - **Custom Star Cursor**: A trail of glowing stars follows your cursor.
 - **Mouse Repel Effect**: Dots dynamically move away when the mouse approaches.
-- **Responsive Canvas**: The animation adapts to screen size changes.
 
 ---
 
