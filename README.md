@@ -23,11 +23,11 @@ This project features interactive moving dots, twinkling stars, a star cursor tr
 
 ---
 
-## 📸 Preview
+## 📸 Demo
 
-> Click the image below to watch the full project breakdown on YouTube:
+▶️ **Watch the video on YouTube**  
+🔗 [Interactive Galaxy Animation](https://youtu.be/sYfIuq6WV-M?si=uIsSqtwBg1FQeYYR)
 
-[![Watch on YouTube](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/sYfIuq6WV-M?si=uIsSqtwBg1FQeYYR)
 
 ## 📬 Connect with Me  
 🧠 [@TCodeStudiobyTanvy](https://www.youtube.com/@TCodeStudiobyTanvy) – YouTube
