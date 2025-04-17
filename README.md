@@ -30,5 +30,5 @@ This project features interactive moving dots, twinkling stars, a star cursor tr
 
 
 ## 📬 Connect with Me  
-🧠 [@TCodeStudiobyTanvy](https://www.youtube.com/@TCodeStudiobyTanvy) – YouTube
+🧠 [@TanvyCodeStudio](https://www.youtube.com/@TCodeStudiobyTanvy) – YouTube
 
