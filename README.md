@@ -21,14 +21,4 @@ This project features interactive moving dots, twinkling stars, a star cursor tr
 - JavaScript (ES6+)
 - No libraries or frameworks used.
 
----
-
-## 📸 Demo
-
-▶️ **Watch the video on YouTube**  
-🔗 [Interactive Galaxy Animation](https://youtu.be/sYfIuq6WV-M?si=uIsSqtwBg1FQeYYR)
-
-
-## 📬 Connect with Me  
-🧠 [@TanvyCodeStudio](https://www.youtube.com/@TCodeStudiobyTanvy) – YouTube
 
